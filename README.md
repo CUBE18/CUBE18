@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CUBE18 (Charan N)
+- 👀 I’m interested in Data, Python, SQL, Analytics, BULK DATA 
+- 🌱 I’m currently learning Data science along with Advanced Python
+- 💞️ I’m looking to collaborate on Data related projects
+- 📫 How to reach me ncharan028@gmail.com
